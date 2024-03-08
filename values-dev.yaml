@@ -1,6 +1,6 @@
 service:
   enabled: true
-  type: loadBalancer
+  type: LoadBalancer
   loadBalancerIP: ""
   loadBalancerClass: ""
   loadBalancerSourceRanges: []
